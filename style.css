@@ -1,0 +1,22 @@
+Body{
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.clock {
+    font-family: Arial, sans-serif;
+    font-size: 70px;
+    border: solid 5px;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.765);
+}
+
+#clock{
+    color: aliceblue;
+}
